@@ -5,6 +5,7 @@ import joblib
 FEATURES = [
     "invoice_quantity",
     "invoice_dollars",
+    "Freight",
     "total_item_quantity",
     "total_item_dollars"
 ]
